@@ -80,5 +80,8 @@ RxJava resources
  
  [When should one use RxJava Observable and when simple Callback on Android?](http://stackoverflow.com/questions/21890338/when-should-one-use-rxjava-observable-and-when-simple-callback-on-android)
 
+## 视频资源
+* [DEMYSTIFYING RXJAVA SUBSCRIBERS](https://vimeo.com/144812843)
+
 
 
