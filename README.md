@@ -1,6 +1,9 @@
 # Awesome-RxJava
 RxJava resources
 
+## 文档翻译
+* [文档地址](https://mcxiaoke.gitbooks.io/rxdocs/content/Intro.html )
+
 ## Blog
 *  [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083) -**强烈推荐** 扔物线的文章  讲解非常详细
 
